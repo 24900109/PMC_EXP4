@@ -249,10 +249,12 @@ static void MX_GPIO_Init(void)
  
  <img width="1191" height="833" alt="1" src="https://github.com/user-attachments/assets/a0b648e9-8611-4b2b-aafe-91500a2d6862" />
 
-<img width="1191" height="833" alt="1" src="https://github.com/user-attachments/assets/e40ee0f8-af14-465f-acc5-688ad245b1b9" />
+<img width="1189" height="834" alt="2" src="https://github.com/user-attachments/assets/a2623241-68f0-49ba-a327-f955dc3d455c" />
+
 
 ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- <img width="851" height="602" alt="3" src="https://github.com/user-attachments/assets/afb62d5e-03e7-4921-af2c-b4abe0235abe" />
+<img width="881" height="631" alt="3" src="https://github.com/user-attachments/assets/81ee6031-f2d5-4338-86c9-aeebf2769569" />
+
 
  
 ## Result :
